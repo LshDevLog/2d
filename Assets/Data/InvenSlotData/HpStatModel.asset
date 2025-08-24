@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5257a39d3b64d2b41828c3f7910c525b, type: 3}
+  m_Name: HpStatModel
+  m_EditorClassIdentifier: 
+  _iconSprite: {fileID: 4076249551127237528, guid: 9f6ada24462125d4f8d89996b1d33ddb, type: 3}
+  _statName: HP
+  _statPerLevel: 1
+  IsStatFloatValue: 0

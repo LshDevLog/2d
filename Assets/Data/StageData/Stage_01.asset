@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 212dec475d912954a8b73631c480814e, type: 3}
+  m_Name: Stage_01
+  m_EditorClassIdentifier: 
+  <StageName>k__BackingField: Golem Dungeon
+  <StageOrderNumber>k__BackingField: 1
+  <NeededTorch>k__BackingField: 1
+  <RewardTorch>k__BackingField:
+    Min: 1
+    Max: 2
+  <MonsterNum>k__BackingField: 10
+  <MainEnemyModel>k__BackingField: {fileID: 11400000, guid: 75b72beb5ed510d4697900d83f1573f8, type: 2}
+  <StageMainEnemySprite>k__BackingField: {fileID: -3030794605390870092, guid: 413f97e757b12094484e08c1e1f73e12, type: 3}
+  <RewardModel>k__BackingField: {fileID: 11400000, guid: f56be8509ebe1f349b27e95dd24484f7, type: 2}
